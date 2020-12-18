@@ -11,6 +11,7 @@ This script clicks the follow button on the carousel/popup for user's that liked
 	* To get there you can use the shortcut on most browsers which is `Ctrl` + `Shift` + `I`.
 	* If the shortcut doesn't work just google "developer options for [your browser name]".
 	* Navigate to the console tab and paste the code there.
+	![Console Tab For Mozilla Firefox](https://i.ibb.co/ZLS1xjQ/ig333.jpg)
 * Hit `Enter` on your keyboard and let the magic happen.
 
 ## Developer Note
