@@ -4,6 +4,8 @@ This script clicks the follow button on the carousel/popup for user's that liked
 ## Usage
 * Open likes on a selected post.
 	* It should look like this:
+	![Instagram Likes Carousel Image 1](https://i.ibb.co/bWVHNxW/ig1.jpg)
+	![Instagram Likes Carousel Image 2](https://i.ibb.co/p3Bv2PS/ig22.jpg)
 	
 * Paste the code from the .js file to the console tab.
 	* To get there you can use shortcuts most browsers use `Ctrl` + `Shift` + `I` then navigate to the console tab.
