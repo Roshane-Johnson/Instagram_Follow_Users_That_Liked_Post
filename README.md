@@ -8,8 +8,9 @@ This script clicks the follow button on the carousel/popup for user's that liked
 	![Instagram Likes Carousel Image 2](https://i.ibb.co/p3Bv2PS/ig22.jpg)
 	
 * Paste the code from the .js file to the console tab.
-	* To get there you can use shortcuts most browsers use `Ctrl` + `Shift` + `I` then navigate to the console tab.
-	* If the shortcut doesn't work just google "developer options for [your browser name]"
+	* To get there you can use the shortcut on most browsers which is `Ctrl` + `Shift` + `I`.
+	* If the shortcut doesn't work just google "developer options for [your browser name]".
+	* Navigate to the console tab and paste the code there.
 * Hit `Enter` on your keyboard and let the magic happen.
 
 ## Developer Note
